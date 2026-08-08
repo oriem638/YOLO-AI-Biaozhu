@@ -1,0 +1,13 @@
+{
+  "name": "ultralytics/yolov5",
+  "repository": "https://github.com/ultralytics/yolov5.git",
+  "ref": "v7.0",
+  "commit": "915bbf294bb74c859f0b41f1c23bc395014ea679",
+  "license": "GPL-3.0-only",
+  "architecture": "classic-anchor-based",
+  "weights": [
+    "yolov5n.pt",
+    "yolov5s.pt"
+  ],
+  "notes": "YOLOv5u weights are intentionally unsupported because MaixPy's YOLOv5 decoder requires classic detection heads and anchors."
+}

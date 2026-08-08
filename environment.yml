@@ -1,0 +1,13 @@
+name: yolo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip=25.1
+  - setuptools=80.9
+  - wheel=0.45.1
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cu128
+      - torch==2.11.0+cu128
+      - torchvision==0.26.0+cu128
+      - .[ml,dev,build]

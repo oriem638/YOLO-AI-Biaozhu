@@ -1,0 +1,1594 @@
+{
+  "distributions": [
+    {
+      "direct_url": null,
+      "license_expression": "Apache-2.0",
+      "name": "absl-py",
+      "record": {
+        "entries_root_sha256": "a8adefa9533df2d210ebafb5708a0a95ea220e68f081c26afc1d3bb1a43afc2d",
+        "entries_without_hash": 23,
+        "entry_count": 53,
+        "path": "absl_py-2.5.0.dist-info/RECORD",
+        "sha256": "afa2dd7236b1fd4f21fcf6e89ebb5fc9dbff6b10d2671769bf2e400cd190928d",
+        "unsafe_paths": []
+      },
+      "version": "2.5.0"
+    },
+    {
+      "direct_url": {
+        "dir_info": {},
+        "url": "file:<local-path-redacted>"
+      },
+      "license_expression": "AGPL-3.0-only",
+      "name": "ai-biaozhu",
+      "record": {
+        "entries_root_sha256": "cafc2e2be9a73999d02057f94bea3bf1a224808145f6f6de398f62d35cda4900",
+        "entries_without_hash": 48,
+        "entry_count": 106,
+        "path": "ai_biaozhu-0.1.0.dist-info/RECORD",
+        "sha256": "0ae0120f9ac98ab17550a5e0001c83738253406b4ac04a2c1dca9d19d9ec1e50",
+        "unsafe_paths": [
+          "../../Scripts/ai-biaozhu-worker.exe",
+          "../../Scripts/ai-biaozhu.exe"
+        ]
+      },
+      "version": "0.1.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "albucore",
+      "record": {
+        "entries_root_sha256": "14bd6aabe02ae63344e3c9738226a87482d15f6bb4306e64f071240c88bac27b",
+        "entries_without_hash": 5,
+        "entry_count": 14,
+        "path": "albucore-0.0.24.dist-info/RECORD",
+        "sha256": "7d151aa51bd4a83a20d8190bb8bcf9fd53d254bd0823c976e1f3cffd32e841fa",
+        "unsafe_paths": []
+      },
+      "version": "0.0.24"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "albumentations",
+      "record": {
+        "entries_root_sha256": "4485a1d7af21d5259d4046217dd0731e5a61c222e3615618f45fffe4a9379a00",
+        "entries_without_hash": 60,
+        "entry_count": 124,
+        "path": "albumentations-2.0.8.dist-info/RECORD",
+        "sha256": "409dffa6905000daf808486c22aae4264cec38279098c2f1715d59822dca5757",
+        "unsafe_paths": []
+      },
+      "version": "2.0.8"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "MIT",
+      "name": "annotated-types",
+      "record": {
+        "entries_root_sha256": "e40882d063b5a196ed2d43f1bd67900d77c5d7fea8817aeeaabd3c94a32d229e",
+        "entries_without_hash": 3,
+        "entry_count": 10,
+        "path": "annotated_types-0.8.0.dist-info/RECORD",
+        "sha256": "7019741c16d7c811aa59c4305c47e85bfb62c1a9925e83f16fb69f4a66b63fff",
+        "unsafe_paths": []
+      },
+      "version": "0.8.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "asttokens",
+      "record": {
+        "entries_root_sha256": "0a5ed813261c2c3a08f24498faada9fb558b371e212e450027ec8dbed9e68ccf",
+        "entries_without_hash": 8,
+        "entry_count": 23,
+        "path": "asttokens-3.0.2.dist-info/RECORD",
+        "sha256": "2cb76e98e093b993bee9e018d62100b063447b60d93f62fc3e4a9897def196b9",
+        "unsafe_paths": []
+      },
+      "version": "3.0.2"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "certifi",
+      "record": {
+        "entries_root_sha256": "6cc0e987aeec092224dca9f0e2d06747ddb37aeef3468603c658f7a20117a8e5",
+        "entries_without_hash": 6,
+        "entry_count": 18,
+        "path": "certifi-2026.7.22.dist-info/RECORD",
+        "sha256": "f2d513bb7e6ba764c2a8ffdbbb04ce7c81c3b1829b94243fbc97151268c0dc68",
+        "unsafe_paths": []
+      },
+      "version": "2026.7.22"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "charset-normalizer",
+      "record": {
+        "entries_root_sha256": "16ab11fb131ce588425fe424287411f91ec4dc97a0456bf9fc102e234568a81e",
+        "entries_without_hash": 13,
+        "entry_count": 36,
+        "path": "charset_normalizer-3.4.9.dist-info/RECORD",
+        "sha256": "509ea04b31134b6dd785c378c400a2f7ce7dc096d06da9bb2eb278a1d40ad312",
+        "unsafe_paths": [
+          "../../Scripts/normalizer.exe"
+        ]
+      },
+      "version": "3.4.9"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "colorama",
+      "record": {
+        "entries_root_sha256": "e4efbcc589db9bc64864900e16046b342bb2745724d02a8efdc613ab16d70bc6",
+        "entries_without_hash": 14,
+        "entry_count": 31,
+        "path": "colorama-0.4.6.dist-info/RECORD",
+        "sha256": "9233950164e1deb499bf8470c6546c30f52dfed6c54c04f2ac36bfaf6e5e8298",
+        "unsafe_paths": []
+      },
+      "version": "0.4.6"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "coloredlogs",
+      "record": {
+        "entries_root_sha256": "73dcb5b865a1f9fb0a6344b46c70d7054ca083f544cab783230097bc9568e132",
+        "entries_without_hash": 8,
+        "entry_count": 23,
+        "path": "coloredlogs-15.0.1.dist-info/RECORD",
+        "sha256": "75c3ce2d9c6e9a7d7f6b153dcace501d6ddac0338af4d9fbaa4ec87529620a7d",
+        "unsafe_paths": [
+          "../../Scripts/coloredlogs.exe"
+        ]
+      },
+      "version": "15.0.1"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "contourpy",
+      "record": {
+        "entries_root_sha256": "2a11dcb90cc7ff71669232eae3cc48aded4a0d62973f07409b2350902868f683",
+        "entries_without_hash": 18,
+        "entry_count": 43,
+        "path": "contourpy-1.3.3.dist-info/RECORD",
+        "sha256": "2313a3cd91d1f8fef525d526d9ded0e0d39eee7b96b3f8e674a10cb6ab292a7b",
+        "unsafe_paths": []
+      },
+      "version": "1.3.3"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "coverage",
+      "record": {
+        "entries_root_sha256": "b6546696f6c3a3cead77f3a2d9df58de2bd4f700e6d1e5a06e0ed08121efa3d5",
+        "entries_without_hash": 45,
+        "entry_count": 109,
+        "path": "coverage-7.15.2.dist-info/RECORD",
+        "sha256": "4fe194dc39cd1bdbe01ff46439d3b8d461428e97f048e897f0207b6b01b4303f",
+        "unsafe_paths": [
+          "../../Scripts/coverage-3.11.exe",
+          "../../Scripts/coverage.exe",
+          "../../Scripts/coverage3.exe"
+        ]
+      },
+      "version": "7.15.2"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "cycler",
+      "record": {
+        "entries_root_sha256": "62953804d36a908378f6df2f32afef9f213b1d29d11952fd0b584e50e7b57c49",
+        "entries_without_hash": 2,
+        "entry_count": 9,
+        "path": "cycler-0.12.1.dist-info/RECORD",
+        "sha256": "ebf24fc90f3cc6915a6629cd50fc70b0706e9c530dba9fa65d585c3821c714e4",
+        "unsafe_paths": []
+      },
+      "version": "0.12.1"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "decorator",
+      "record": {
+        "entries_root_sha256": "5e0081d93bdcdd646f9c9ae1c6ea6c500b59d1076094c82cff84363bffcbd63a",
+        "entries_without_hash": 2,
+        "entry_count": 10,
+        "path": "decorator-5.3.1.dist-info/RECORD",
+        "sha256": "03cc78835dbf8bab25516aac274c71eb582c44dac77163f0a3c9e74e576a5f91",
+        "unsafe_paths": []
+      },
+      "version": "5.3.1"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "executing",
+      "record": {
+        "entries_root_sha256": "7e38ab95d9f70101a02976382bcf2787b669b8978a9cedc8cebce34b625da71b",
+        "entries_without_hash": 8,
+        "entry_count": 21,
+        "path": "executing-2.2.1.dist-info/RECORD",
+        "sha256": "d2a3ca8310df973430d43b543fbb7b717e3aabae0892afa9d394521b0025b6e7",
+        "unsafe_paths": []
+      },
+      "version": "2.2.1"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "MIT",
+      "name": "filelock",
+      "record": {
+        "entries_root_sha256": "657717f0ed8196d2181c37f5f0aeebd21c7388522b61e1110a195aece7da05ad",
+        "entries_without_hash": 22,
+        "entry_count": 48,
+        "path": "filelock-3.32.0.dist-info/RECORD",
+        "sha256": "18179c5918c7bb1cfe727352ad37c1cda1dfd5aeb31602d7caa79a7e10ff2949",
+        "unsafe_paths": []
+      },
+      "version": "3.32.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "flatbuffers",
+      "record": {
+        "entries_root_sha256": "4d14279ac5a17bcaf62b0688ebdbdd4413d677e08f13784c34b14ae01b49f53e",
+        "entries_without_hash": 11,
+        "entry_count": 25,
+        "path": "flatbuffers-25.12.19.dist-info/RECORD",
+        "sha256": "b6c81d21d8226c7de3808860210539ce847d36f38b75d817bebd56c9be21c806",
+        "unsafe_paths": []
+      },
+      "version": "25.12.19"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "fonttools",
+      "record": {
+        "entries_root_sha256": "382b0505f1c8983ad5c9145430d1d547327cf9def060180549b9fce1b1ab7295",
+        "entries_without_hash": 338,
+        "entry_count": 701,
+        "path": "fonttools-4.63.0.dist-info/RECORD",
+        "sha256": "93916a1e3039505cefea85c4c8eff16b96cf64756f2fb60d38ebd6c05cb439e8",
+        "unsafe_paths": [
+          "../../Scripts/fonttools.exe",
+          "../../Scripts/pyftmerge.exe",
+          "../../Scripts/pyftsubset.exe",
+          "../../Scripts/ttx.exe",
+          "../../share/man/man1/ttx.1"
+        ]
+      },
+      "version": "4.63.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "BSD-3-Clause",
+      "name": "fsspec",
+      "record": {
+        "entries_root_sha256": "573461ef9c312f5bb91e418536c7eb4fa24414856c248ab65007cf223d7716b3",
+        "entries_without_hash": 58,
+        "entry_count": 119,
+        "path": "fsspec-2026.6.0.dist-info/RECORD",
+        "sha256": "6a25563c7b5e3e0fc8d63d573e7773e88cf66472e620c16888421e6fa6df4160",
+        "unsafe_paths": []
+      },
+      "version": "2026.6.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "gitdb",
+      "record": {
+        "entries_root_sha256": "cc3b7635da23a5837ce7f6a1824b55fc2d64d551d150d347922d845987fa16cd",
+        "entries_without_hash": 26,
+        "entry_count": 57,
+        "path": "gitdb-4.0.12.dist-info/RECORD",
+        "sha256": "e24a48be2c8a60c61338d6d881ade358b895082f83fbe50d1303277802cdaf52",
+        "unsafe_paths": []
+      },
+      "version": "4.0.12"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "GitPython",
+      "record": {
+        "entries_root_sha256": "6d9616f353c59583978e67af9e52dc106ee41a9d7d2fcec316aae285b869a4ea",
+        "entries_without_hash": 38,
+        "entry_count": 83,
+        "path": "gitpython-3.1.55.dist-info/RECORD",
+        "sha256": "5a89e5f912c0b6f6c6463b2f9e66de019f09f39f0dd7e44b88285dea93744301",
+        "unsafe_paths": []
+      },
+      "version": "3.1.55"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "Apache-2.0",
+      "name": "grpcio",
+      "record": {
+        "entries_root_sha256": "202c281016ce3e84f430d91af46216475edaaf1937c8a6751d6eb883ba1f7064",
+        "entries_without_hash": 57,
+        "entry_count": 123,
+        "path": "grpcio-1.83.0.dist-info/RECORD",
+        "sha256": "06f60dad3e776af6b68dd84f99e789f1a189e3638d46e86dcbf3c7341340c91f",
+        "unsafe_paths": []
+      },
+      "version": "1.83.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "humanfriendly",
+      "record": {
+        "entries_root_sha256": "9a44c4e0b3d71178047f81e082b23595e1492f4ba6508f4917a872e54d2163c3",
+        "entries_without_hash": 17,
+        "entry_count": 40,
+        "path": "humanfriendly-10.0.dist-info/RECORD",
+        "sha256": "741b4872d22da2eb07b6ce23a686d8f39c28992c97f2f1a2216280eddf8fe334",
+        "unsafe_paths": [
+          "../../Scripts/humanfriendly.exe"
+        ]
+      },
+      "version": "10.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "BSD-3-Clause",
+      "name": "idna",
+      "record": {
+        "entries_root_sha256": "a66d40cd4b4655cfdb8e88ea004c461f94a01b9422695a1f226e1495e24d7a14",
+        "entries_without_hash": 11,
+        "entry_count": 28,
+        "path": "idna-3.18.dist-info/RECORD",
+        "sha256": "ebc96c02d0574c8f21ef4b978abe9d3760e711e2209c989e3389eb85f2f6ae29",
+        "unsafe_paths": [
+          "../../Scripts/idna.exe"
+        ]
+      },
+      "version": "3.18"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "MIT",
+      "name": "iniconfig",
+      "record": {
+        "entries_root_sha256": "cf468760a7a3a9ec2f33f4a9dec89b9886c8c032eb7682e12b8f8010429b8003",
+        "entries_without_hash": 5,
+        "entry_count": 15,
+        "path": "iniconfig-2.3.0.dist-info/RECORD",
+        "sha256": "2edd5ab058b9e8d1904e4ec03c98f677be1208d2112cbbce148c83dc89f71a93",
+        "unsafe_paths": []
+      },
+      "version": "2.3.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "BSD-3-Clause",
+      "name": "ipython",
+      "record": {
+        "entries_root_sha256": "5ace1f52fc9aa9cd935b92a539432f3b74a554499784561dea000775f72d7a11",
+        "entries_without_hash": 176,
+        "entry_count": 367,
+        "path": "ipython-9.15.0.dist-info/RECORD",
+        "sha256": "c7bd5f0a4c37e199f6ae064689e24d6eae0702197e9ccfa030abbacb84999cae",
+        "unsafe_paths": [
+          "../../Scripts/ipython.exe",
+          "../../Scripts/ipython3.exe",
+          "../../share/man/man1/ipython.1"
+        ]
+      },
+      "version": "9.15.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "ipython_pygments_lexers",
+      "record": {
+        "entries_root_sha256": "8772c613d1d735061f814a2c6c1793abe4939018422944fc325975323c9464a8",
+        "entries_without_hash": 2,
+        "entry_count": 8,
+        "path": "ipython_pygments_lexers-1.1.1.dist-info/RECORD",
+        "sha256": "07830ace3c36688eaf0f19beafdb650114137bce8fe92acef30b2cc0742fbc27",
+        "unsafe_paths": []
+      },
+      "version": "1.1.1"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "jedi",
+      "record": {
+        "entries_root_sha256": "80b233f077945968f87596a4daa3b1e8a50f9712a14349878df392a61db97360",
+        "entries_without_hash": 85,
+        "entry_count": 5711,
+        "path": "jedi-0.20.0.dist-info/RECORD",
+        "sha256": "456b852b98a27fc90860819637c740b771881348381dd7ad05427f6ba212c7c2",
+        "unsafe_paths": []
+      },
+      "version": "0.20.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "Jinja2",
+      "record": {
+        "entries_root_sha256": "ef2d3d56446003941b0b861293b0e6d86635508e7822169c64f46ec8f5fed53b",
+        "entries_without_hash": 26,
+        "entry_count": 57,
+        "path": "jinja2-3.1.6.dist-info/RECORD",
+        "sha256": "1cdb905163b71bcd3528f9d0f46aafd59670242cdbd0ed1a34de3e96dab0cf3b",
+        "unsafe_paths": []
+      },
+      "version": "3.1.6"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "kiwisolver",
+      "record": {
+        "entries_root_sha256": "4ba250e5c83d222637e594239190648ddb7964e66ff2bfdf125ea0e2095a4afe",
+        "entries_without_hash": 3,
+        "entry_count": 13,
+        "path": "kiwisolver-1.5.0.dist-info/RECORD",
+        "sha256": "ea05b855cfc1f5af1575fbda7f4cc1464d0644fecf46de28b7ccd4d46de6911a",
+        "unsafe_paths": []
+      },
+      "version": "1.5.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "BSD-3-Clause",
+      "name": "Markdown",
+      "record": {
+        "entries_root_sha256": "8b01ef59a6d3a45449a4e3c1876e5b45fe65b7e58406efcfed24b803423a4c99",
+        "entries_without_hash": 34,
+        "entry_count": 74,
+        "path": "markdown-3.10.2.dist-info/RECORD",
+        "sha256": "fb2378e323ab461c8f24d53522ec94c265eca7c1c6de9b1d31ff83c6a47b9667",
+        "unsafe_paths": [
+          "../../Scripts/markdown_py.exe"
+        ]
+      },
+      "version": "3.10.2"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "markdown-it-py",
+      "record": {
+        "entries_root_sha256": "8be52b1befa13670ac6e9b5cd8b210d474ca3891777ee8652e3821980992d2af",
+        "entries_without_hash": 67,
+        "entry_count": 142,
+        "path": "markdown_it_py-4.2.0.dist-info/RECORD",
+        "sha256": "9af8211f1e110a694c96a71bd17d5c1121aa922fe5fe8f7640de78877ec9ada1",
+        "unsafe_paths": [
+          "../../Scripts/markdown-it.exe"
+        ]
+      },
+      "version": "4.2.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "BSD-3-Clause",
+      "name": "MarkupSafe",
+      "record": {
+        "entries_root_sha256": "a7e2fb3aa4402cc990c11da0ce9af3f753349563647f47659c2457deeb59a06f",
+        "entries_without_hash": 3,
+        "entry_count": 14,
+        "path": "markupsafe-3.0.3.dist-info/RECORD",
+        "sha256": "eb598202c7791f6f9f1778b16223ebf50d15472be64260d47c93e9cbb5590740",
+        "unsafe_paths": []
+      },
+      "version": "3.0.3"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "matplotlib",
+      "record": {
+        "entries_root_sha256": "a7da92a8f187cba0a2730abfd15f7ec6ebb915ba028675a635e857be44d0190a",
+        "entries_without_hash": 290,
+        "entry_count": 891,
+        "path": "matplotlib-3.11.1.dist-info/RECORD",
+        "sha256": "92f217ca74052d9018038ea270dd6d39a1c344dd046e1f286b5f9353e0aa631d",
+        "unsafe_paths": []
+      },
+      "version": "3.11.1"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "BSD-3-Clause",
+      "name": "matplotlib-inline",
+      "record": {
+        "entries_root_sha256": "0e29e174764b96ab806e18440f5fa2849d60aec1f779b154f06c80932112b005",
+        "entries_without_hash": 4,
+        "entry_count": 13,
+        "path": "matplotlib_inline-0.2.2.dist-info/RECORD",
+        "sha256": "c2ca2b279d69c4fd8e56bb986ef660893a22f7e0ce51c561cc8221d09b83cb56",
+        "unsafe_paths": []
+      },
+      "version": "0.2.2"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "mdurl",
+      "record": {
+        "entries_root_sha256": "3d1cad2a9eff447908c95a489a75106c54acc07337c47bd7eeea48875eae6359",
+        "entries_without_hash": 7,
+        "entry_count": 18,
+        "path": "mdurl-0.1.2.dist-info/RECORD",
+        "sha256": "2652eae77e98c35e6b681d60e4f2a8f401530363156d426928a797f3b985916e",
+        "unsafe_paths": []
+      },
+      "version": "0.1.2"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "Apache-2.0",
+      "name": "ml_dtypes",
+      "record": {
+        "entries_root_sha256": "0ecab31b804e824c589243e17cb9234b2ee33351d87d53cd0f3968578e9b6b94",
+        "entries_without_hash": 4,
+        "entry_count": 15,
+        "path": "ml_dtypes-0.5.4.dist-info/RECORD",
+        "sha256": "e45ebf401494f84147785792be672a2479fcdd4a528e5d9f241b576d9d341b87",
+        "unsafe_paths": []
+      },
+      "version": "0.5.4"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "mpmath",
+      "record": {
+        "entries_root_sha256": "8e402687a191d595bdc6d75675a889c1f94ca047be3a4a39b665a4dbfca2de7f",
+        "entries_without_hash": 88,
+        "entry_count": 180,
+        "path": "mpmath-1.3.0.dist-info/RECORD",
+        "sha256": "4d067ead8a648e6c16b46974f315c0e08132b51d1612b6a98ba36dcb4c334e53",
+        "unsafe_paths": []
+      },
+      "version": "1.3.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "BSD-3-Clause",
+      "name": "networkx",
+      "record": {
+        "entries_root_sha256": "00b896b46c0b2a300ce59d06dab02f8ce15f571867118d106891275f79ad955e",
+        "entries_without_hash": 581,
+        "entry_count": 1182,
+        "path": "networkx-3.6.1.dist-info/RECORD",
+        "sha256": "062a288dc1a4210734ee0c8b5f8d79794cfc46389311f2aa045bf53466d77f05",
+        "unsafe_paths": []
+      },
+      "version": "3.6.1"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "Nuitka",
+      "record": {
+        "entries_root_sha256": "c7146bf9d2ddde93551b99fcdc010377870183280014759e5dba654a9ebc119c",
+        "entries_without_hash": 848,
+        "entry_count": 2028,
+        "path": "nuitka-4.1.3.dist-info/RECORD",
+        "sha256": "17383dce70c54449c20c1e4a6ede2cead056de84e2ce099a6815444da7691732",
+        "unsafe_paths": [
+          "../../Scripts/compile-python-for-nuitka-windows.cmd",
+          "../../Scripts/nuitka-run.cmd",
+          "../../Scripts/nuitka.cmd"
+        ]
+      },
+      "version": "4.1.3"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "numpy",
+      "record": {
+        "entries_root_sha256": "385f457140c13fe892c3991941aa79db55e9e7e96398e8434ece4ae5c7cdf213",
+        "entries_without_hash": 490,
+        "entry_count": 1425,
+        "path": "numpy-1.26.4.dist-info/RECORD",
+        "sha256": "b0971a6de72a04bfd67985277240250634ba971f97ee05617822accb9a385570",
+        "unsafe_paths": [
+          "../../Scripts/f2py.exe"
+        ]
+      },
+      "version": "1.26.4"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "nvidia-ml-py",
+      "record": {
+        "entries_root_sha256": "f7ccfafd0a9b41ddc00ef3db1579f69058cfded07816d3a5eb946cba30a6c186",
+        "entries_without_hash": 3,
+        "entry_count": 9,
+        "path": "nvidia_ml_py-12.575.51.dist-info/RECORD",
+        "sha256": "2e3a3139c6a5249da31ca4371e66eddad32997f78b0d8302a6aaefd09e792af0",
+        "unsafe_paths": []
+      },
+      "version": "12.575.51"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "Apache-2.0",
+      "name": "onnx",
+      "record": {
+        "entries_root_sha256": "f98138fc0b1bb22a7a4b61addac6f5e3e860300802fe5b39e862b4d60df6cee2",
+        "entries_without_hash": 538,
+        "entry_count": 9560,
+        "path": "onnx-1.22.0.dist-info/RECORD",
+        "sha256": "a17ca82a2eb294982b75a0480743281c38502f79cf8a0d163ebe4e1e22daca58",
+        "unsafe_paths": [
+          "../../Scripts/backend-test-tools.exe",
+          "../../Scripts/check-model.exe",
+          "../../Scripts/check-node.exe"
+        ]
+      },
+      "version": "1.22.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "onnxruntime-gpu",
+      "record": {
+        "entries_root_sha256": "0e593554e521832e6a46bdaf349c1487d419530a663307565358f7d86d9de838",
+        "entries_without_hash": 295,
+        "entry_count": 609,
+        "path": "onnxruntime_gpu-1.22.0.dist-info/RECORD",
+        "sha256": "0b3ab786289fbdc07b88ba21cf387de18d5b84f74193a23309f5b1e86d15438b",
+        "unsafe_paths": [
+          "../../Scripts/onnxruntime_test.exe"
+        ]
+      },
+      "version": "1.22.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "onnxsim",
+      "record": {
+        "entries_root_sha256": "cf56dd0f506f252b84a0060a6034c07440201ebcfbdbc46314433f7418c3f9d7",
+        "entries_without_hash": 7,
+        "entry_count": 28,
+        "path": "onnxsim-0.4.36.dist-info/RECORD",
+        "sha256": "2b8feb73cf9f7b0064e28dd2cc140bfaf438b052e11d54f1dcb25e38ae0f1312",
+        "unsafe_paths": [
+          "../../Scripts/onnxsim.exe"
+        ]
+      },
+      "version": "0.4.36"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "MIT",
+      "name": "onnxslim",
+      "record": {
+        "entries_root_sha256": "ff8958ce413503ed56a0cc0bff612d1702aff8fae36f4627e3cd1800ba6e98ec",
+        "entries_without_hash": 59,
+        "entry_count": 124,
+        "path": "onnxslim-0.1.82.dist-info/RECORD",
+        "sha256": "5e2ce48bbf5102f3ddb6c65a832a4b752b6d4322e1f6acccfb9cd3c42a990e2a",
+        "unsafe_paths": [
+          "../../Scripts/onnxslim.exe"
+        ]
+      },
+      "version": "0.1.82"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "opencv-python",
+      "record": {
+        "entries_root_sha256": "e7dcb7fe1f015c53b8b8042b7f9bcf469cbe480010fec298877c9426d34e9615",
+        "entries_without_hash": 14,
+        "entry_count": 100,
+        "path": "opencv_python-4.11.0.86.dist-info/RECORD",
+        "sha256": "36ae9d5540edccb320dd1274e42f8c1f07da46a32cae54828b228a87c1db5557",
+        "unsafe_paths": []
+      },
+      "version": "4.11.0.86"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "opencv-python-headless",
+      "record": {
+        "entries_root_sha256": "e90cb1d2a153896e2eb86ac90b587ce4b870449ac9e6a3935f3962d2623a2d7d",
+        "entries_without_hash": 14,
+        "entry_count": 100,
+        "path": "opencv_python_headless-4.11.0.86.dist-info/RECORD",
+        "sha256": "3ab61f728fdd66657078320a3f5b6e788567fb7bbcfda76fddb0c012ec088662",
+        "unsafe_paths": []
+      },
+      "version": "4.11.0.86"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "ordered-set",
+      "record": {
+        "entries_root_sha256": "9bea038e93f6572565aba8e4bad582e418217fce0daf1aa50df4652aa1013faa",
+        "entries_without_hash": 2,
+        "entry_count": 7,
+        "path": "ordered_set-4.1.0.dist-info/RECORD",
+        "sha256": "a7b985b22d2360ce2c3810272e63258f2e1d1c13e16e1495b119f70dd145bec5",
+        "unsafe_paths": []
+      },
+      "version": "4.1.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "Apache-2.0 OR BSD-2-Clause",
+      "name": "packaging",
+      "record": {
+        "entries_root_sha256": "d157ae50e2f76b736d0008a1260d7069aa6066267d036535d4f477c0c8542843",
+        "entries_without_hash": 21,
+        "entry_count": 48,
+        "path": "packaging-26.2.dist-info/RECORD",
+        "sha256": "60fc3a9468e229b9c144c7f8a513bacc59406a3bd573370b3a228699bf8bd579",
+        "unsafe_paths": []
+      },
+      "version": "26.2"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "pandas",
+      "record": {
+        "entries_root_sha256": "69b2671f09808ecccec314c70206d224a36cc30e6dcf7579d465e1429ba80322",
+        "entries_without_hash": 1422,
+        "entry_count": 2991,
+        "path": "pandas-3.0.5.dist-info/RECORD",
+        "sha256": "0a1d5e187292c45e7a4e8c81496531061c5eccc4b641fbfc594d8abd11f5c644",
+        "unsafe_paths": []
+      },
+      "version": "3.0.5"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "parso",
+      "record": {
+        "entries_root_sha256": "1ecb2bcffb204e963370c43d9107606ec6f5cf36549f6d593933c88bd74a50eb",
+        "entries_without_hash": 22,
+        "entry_count": 59,
+        "path": "parso-0.8.7.dist-info/RECORD",
+        "sha256": "b4705e1a052706baab76f21e829846fe64dbb994274d7deb35624ba42213e92c",
+        "unsafe_paths": []
+      },
+      "version": "0.8.7"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "MIT-CMU",
+      "name": "pillow",
+      "record": {
+        "entries_root_sha256": "ea12ee1afabe7f9b730e22dec82a890024e7f0120dd3895f344c1396073352a5",
+        "entries_without_hash": 97,
+        "entry_count": 216,
+        "path": "pillow-11.3.0.dist-info/RECORD",
+        "sha256": "51a313d717263e91c8bcb18b68e443f90830138eea8b4c66759db27556fd2d70",
+        "unsafe_paths": []
+      },
+      "version": "11.3.0"
+    },
+    {
+      "direct_url": {
+        "dir_info": {},
+        "url": "file:<local-path-redacted>"
+      },
+      "license_expression": null,
+      "name": "pip",
+      "record": {
+        "entries_root_sha256": "48f2d0e75b2bf33a04a94cf1468f082e9a223fe94830b89b201f33b9564b555b",
+        "entries_without_hash": 412,
+        "entry_count": 857,
+        "path": "pip-25.1.1.dist-info/RECORD",
+        "sha256": "5b4dc17520e991766606752370f55b402b3b971caed4d4a2615befd6a3e095a5",
+        "unsafe_paths": [
+          "../../../bin/pip",
+          "../../../bin/pip3",
+          "../../../bin/pip3.12"
+        ]
+      },
+      "version": "25.1.1"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "MIT",
+      "name": "platformdirs",
+      "record": {
+        "entries_root_sha256": "48a46877991cfee7642847a0ad4553feaea2dc4915c358bead958f4431fdb0ab",
+        "entries_without_hash": 9,
+        "entry_count": 22,
+        "path": "platformdirs-4.3.8.dist-info/RECORD",
+        "sha256": "c58a5678b371ec378c93cb8f380a085eec23af567a543a503367a1d8960abaaf",
+        "unsafe_paths": []
+      },
+      "version": "4.3.8"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "pluggy",
+      "record": {
+        "entries_root_sha256": "9425726ed7a8757c23518d0348136b797cb3e4595bdf314c2a961c7acb2cc8f3",
+        "entries_without_hash": 9,
+        "entry_count": 23,
+        "path": "pluggy-1.6.0.dist-info/RECORD",
+        "sha256": "bdd64d85fd746918907a61f5c9b6c4c0622765fcf1870ae78c909de1dd9aeeea",
+        "unsafe_paths": []
+      },
+      "version": "1.6.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "polars",
+      "record": {
+        "entries_root_sha256": "d07b0d5babaeba3a0ac1ed76df0b35b7e59b117bf94b07e755ac70524d7f7cea",
+        "entries_without_hash": 208,
+        "entry_count": 422,
+        "path": "polars-1.43.0.dist-info/RECORD",
+        "sha256": "0371099d5341f983b21983bec24b7caa2e6aaab88dd17c79e66d05e11e53b9bf",
+        "unsafe_paths": []
+      },
+      "version": "1.43.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "polars-runtime-32",
+      "record": {
+        "entries_root_sha256": "bf127125a0d6028a607e100d7300138f699619d7d5a0cca39cc5b24c83f042b6",
+        "entries_without_hash": 3,
+        "entry_count": 10,
+        "path": "polars_runtime_32-1.43.0.dist-info/RECORD",
+        "sha256": "1421ee6187211fcb7a72580867ce8f7c84fa2fbf01e7a97ade35d40d67177a85",
+        "unsafe_paths": []
+      },
+      "version": "1.43.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "prompt_toolkit",
+      "record": {
+        "entries_root_sha256": "f0d6fd7e21bc8390387b286bd6233e93d0829e88ef645a8848fab7fa82bd3d50",
+        "entries_without_hash": 146,
+        "entry_count": 298,
+        "path": "prompt_toolkit-3.0.52.dist-info/RECORD",
+        "sha256": "2cb48b320c5000850f659f199bef2ac6e9a1fd51a02a236c20ca6a75829966d5",
+        "unsafe_paths": []
+      },
+      "version": "3.0.52"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "protobuf",
+      "record": {
+        "entries_root_sha256": "e216a7e3ba6757e676363ece19e6d1bd2a8a5f7f3661be01a3fa48a449291c13",
+        "entries_without_hash": 55,
+        "entry_count": 114,
+        "path": "protobuf-7.35.1.dist-info/RECORD",
+        "sha256": "193fa76fa43af3f1ca924997b42c5b4706543bed4259ca5dda7a2327e25ef40a",
+        "unsafe_paths": []
+      },
+      "version": "7.35.1"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "psutil",
+      "record": {
+        "entries_root_sha256": "2f153a51f1feab528cde0642d854cae1c9d04fa7404ea25d0852bc4266e136e1",
+        "entries_without_hash": 29,
+        "entry_count": 63,
+        "path": "psutil-7.0.0.dist-info/RECORD",
+        "sha256": "4e255c357dbdb17bc4dc90b7111bb3e6b527100937c0ee686ff0464ce607c716",
+        "unsafe_paths": []
+      },
+      "version": "7.0.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "pure_eval",
+      "record": {
+        "entries_root_sha256": "9b8b855fce80fb24e6af346f6c9ea73cc7ab69447bf33360a9f66749f8517987",
+        "entries_without_hash": 6,
+        "entry_count": 17,
+        "path": "pure_eval-0.2.3.dist-info/RECORD",
+        "sha256": "2570ee45f9fae0b728515d0cffa392c4f7aa0177656d8eee4d58dd58f6907fb2",
+        "unsafe_paths": []
+      },
+      "version": "0.2.3"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "MIT",
+      "name": "pydantic",
+      "record": {
+        "entries_root_sha256": "cec247d310b144ab4c6fc20ade0d074a8f71c2b1dd33320699156a30ade58105",
+        "entries_without_hash": 106,
+        "entry_count": 217,
+        "path": "pydantic-2.13.4.dist-info/RECORD",
+        "sha256": "e0acd515187e747b327f54e4813abdbfaa2307170b523213a12afee72106d5af",
+        "unsafe_paths": []
+      },
+      "version": "2.13.4"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "MIT",
+      "name": "pydantic_core",
+      "record": {
+        "entries_root_sha256": "1e6bbf8c50ceeac09a201358c455e2035b05ab706a1115c73b68906ef8e2cf8b",
+        "entries_without_hash": 3,
+        "entry_count": 13,
+        "path": "pydantic_core-2.46.4.dist-info/RECORD",
+        "sha256": "f867a5f77eafb178011c762d80cb6e97755338370a045d4480f1ece26a65b5e9",
+        "unsafe_paths": []
+      },
+      "version": "2.46.4"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "BSD-2-Clause",
+      "name": "Pygments",
+      "record": {
+        "entries_root_sha256": "cd740048b9c6c889509767aa0783dd9897597231289a77599970b3b045ebbf7b",
+        "entries_without_hash": 340,
+        "entry_count": 686,
+        "path": "pygments-2.20.0.dist-info/RECORD",
+        "sha256": "741b7e795767f0f10c806093f0f5787e76ef694c1e33bae1365020fd58faf6bf",
+        "unsafe_paths": [
+          "../../Scripts/pygmentize.exe"
+        ]
+      },
+      "version": "2.20.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "pynvml",
+      "record": {
+        "entries_root_sha256": "d752b6aebb3afbd6b3e82e5b1736aa6c7a438f8962c48f7f7058fa2f093801d6",
+        "entries_without_hash": 5,
+        "entry_count": 14,
+        "path": "pynvml-12.0.0.dist-info/RECORD",
+        "sha256": "01d42cf9df29a882539b50c280d02c9e697f077a5b722e82b1cd9532af95b3e6",
+        "unsafe_paths": []
+      },
+      "version": "12.0.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "MIT",
+      "name": "pyparsing",
+      "record": {
+        "entries_root_sha256": "da9baca6e141906a2805b74f065fbc8bfe6581acb7a6134e4bf8954d13ebc2a9",
+        "entries_without_hash": 18,
+        "entry_count": 41,
+        "path": "pyparsing-3.3.2.dist-info/RECORD",
+        "sha256": "e327b00f97a59ac1464fce500dc66b739f3a3de0724f8e188717ef3d08c44edc",
+        "unsafe_paths": []
+      },
+      "version": "3.3.2"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "pyreadline3",
+      "record": {
+        "entries_root_sha256": "51e18328b413fcf6611da2dad56d8deb27d2136b7f48f618c44497a5387fe9e0",
+        "entries_without_hash": 47,
+        "entry_count": 102,
+        "path": "pyreadline3-3.5.6.dist-info/RECORD",
+        "sha256": "af7736f528086e70812194b1fe3c8a2b1a9bd10eb2b3a1ab5dc352f346c00767",
+        "unsafe_paths": []
+      },
+      "version": "3.5.6"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "PySide6",
+      "record": {
+        "entries_root_sha256": "eab3c7ebccdd64996251c6549ef19391efba2029523e1d14722a6b4a8ba58454",
+        "entries_without_hash": 4,
+        "entry_count": 72,
+        "path": "pyside6-6.9.2.dist-info/RECORD",
+        "sha256": "dc67f1cc9406a2902b416b6716731c614d1d348be402163e12d7af5b075f6a2d",
+        "unsafe_paths": []
+      },
+      "version": "6.9.2"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "PySide6_Addons",
+      "record": {
+        "entries_root_sha256": "1e60a2408e8828f1ee643b73b98ee6f3b61bf3a7673f90f1c4caf3c6e313f0fc",
+        "entries_without_hash": 8,
+        "entry_count": 1298,
+        "path": "pyside6_addons-6.9.2.dist-info/RECORD",
+        "sha256": "1448e9ea39e331ef966da84f41c62e7f9fec415ba8241ec2af6a313678928066",
+        "unsafe_paths": []
+      },
+      "version": "6.9.2"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "PySide6_Essentials",
+      "record": {
+        "entries_root_sha256": "8d3addabfbc697820a5a488d4fda0cc5b9c2f7e2f297e9bfefb207d1a779c320",
+        "entries_without_hash": 35,
+        "entry_count": 2354,
+        "path": "pyside6_essentials-6.9.2.dist-info/RECORD",
+        "sha256": "d6e5eaa4f05a2f222497b434e959b1c2db64083fafeaeda7a4ff0b6110bf9dd0",
+        "unsafe_paths": [
+          "../../Scripts/pyside6-assistant.exe",
+          "../../Scripts/pyside6-balsam.exe",
+          "../../Scripts/pyside6-balsamui.exe",
+          "../../Scripts/pyside6-deploy.exe",
+          "../../Scripts/pyside6-designer.exe",
+          "../../Scripts/pyside6-genpyi.exe",
+          "../../Scripts/pyside6-linguist.exe",
+          "../../Scripts/pyside6-lrelease.exe",
+          "../../Scripts/pyside6-lupdate.exe",
+          "../../Scripts/pyside6-metaobjectdump.exe",
+          "../../Scripts/pyside6-project.exe",
+          "../../Scripts/pyside6-qml.exe",
+          "../../Scripts/pyside6-qmlcachegen.exe",
+          "../../Scripts/pyside6-qmlformat.exe",
+          "../../Scripts/pyside6-qmlimportscanner.exe",
+          "../../Scripts/pyside6-qmllint.exe",
+          "../../Scripts/pyside6-qmlls.exe",
+          "../../Scripts/pyside6-qmltyperegistrar.exe",
+          "../../Scripts/pyside6-qsb.exe",
+          "../../Scripts/pyside6-qtpy2cpp.exe",
+          "../../Scripts/pyside6-rcc.exe",
+          "../../Scripts/pyside6-svgtoqml.exe",
+          "../../Scripts/pyside6-uic.exe"
+        ]
+      },
+      "version": "6.9.2"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "pytest",
+      "record": {
+        "entries_root_sha256": "04b95a24a23c16cb5793ad737246048504c9fc8fcf677f6c506e0b262ed4937e",
+        "entries_without_hash": 73,
+        "entry_count": 156,
+        "path": "pytest-8.4.1.dist-info/RECORD",
+        "sha256": "523458b422ab11033dd32054099dd73ee2084aa8674f24cedc4eabf448b04465",
+        "unsafe_paths": [
+          "../../Scripts/py.test.exe",
+          "../../Scripts/pytest.exe"
+        ]
+      },
+      "version": "8.4.1"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "pytest-cov",
+      "record": {
+        "entries_root_sha256": "e36219eb60bde2d63051c15b9ad4dbedfcae04a5c404dad974e08cbc31d22796",
+        "entries_without_hash": 6,
+        "entry_count": 19,
+        "path": "pytest_cov-6.2.1.dist-info/RECORD",
+        "sha256": "7734966d4436d652c367e20ba1b3d582dcde8b6ead06d0be8619f3c43f27fc96",
+        "unsafe_paths": []
+      },
+      "version": "6.2.1"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "pytest-qt",
+      "record": {
+        "entries_root_sha256": "7f1d3f52b3ac7e456737c75525be4f376e8930743c8ac3c424284fbae32d857d",
+        "entries_without_hash": 11,
+        "entry_count": 28,
+        "path": "pytest_qt-4.5.0.dist-info/RECORD",
+        "sha256": "24a69b97ae53381b1c7f87d1a727afdd603b7d3f3486500a721d2ad39dafcc7d",
+        "unsafe_paths": []
+      },
+      "version": "4.5.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "python-dateutil",
+      "record": {
+        "entries_root_sha256": "ba832060eeec0eff0890e2b9cec421bf58fd68bf7ff7a5c2e2e69e3d0e3b08d7",
+        "entries_without_hash": 19,
+        "entry_count": 44,
+        "path": "python_dateutil-2.9.0.post0.dist-info/RECORD",
+        "sha256": "2d07914d24c0e9ff27be7ab8be3924c0b036ccf24d7df1a50db22e10a8263e22",
+        "unsafe_paths": []
+      },
+      "version": "2.9.0.post0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "PyYAML",
+      "record": {
+        "entries_root_sha256": "0ae14c7468f2615d7382cbc705ee5a231a5c32e1b878b467a5a1877c00b66d14",
+        "entries_without_hash": 19,
+        "entry_count": 43,
+        "path": "PyYAML-6.0.2.dist-info/RECORD",
+        "sha256": "f7f1a9c23c947877f02d8c7dc8fa111e84312882f8aea6f063a657e0d454a22d",
+        "unsafe_paths": []
+      },
+      "version": "6.0.2"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "requests",
+      "record": {
+        "entries_root_sha256": "0a61e54974cc1ec995dc844ab5f676a9c40c662458e794799d1b128ffc40cd6d",
+        "entries_without_hash": 20,
+        "entry_count": 46,
+        "path": "requests-2.34.2.dist-info/RECORD",
+        "sha256": "95f5b02ec24d1187982de368c0f5cafc8006fb2c409d624fc7140a184c6040a8",
+        "unsafe_paths": []
+      },
+      "version": "2.34.2"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "rich",
+      "record": {
+        "entries_root_sha256": "f3256cf678cd3f680350aeb56af94b8e64faf137004ec9f085a87702116f54c0",
+        "entries_without_hash": 101,
+        "entry_count": 206,
+        "path": "rich-15.0.0.dist-info/RECORD",
+        "sha256": "ee2f6812c4c91c97024a6fc8ed5ae670867569b610cf5c853127fd36bb85d9df",
+        "unsafe_paths": []
+      },
+      "version": "15.0.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "ruff",
+      "record": {
+        "entries_root_sha256": "7e416252b88d6f8225d0569be10ca71bec0fd8c0085a68f8594cf20b16fa2784",
+        "entries_without_hash": 3,
+        "entry_count": 10,
+        "path": "ruff-0.12.5.dist-info/RECORD",
+        "sha256": "a53dc44fe4fd1a7aeaedb809e2c307d05b290cf45267123d4cfc52ce4f8b382e",
+        "unsafe_paths": [
+          "../../Scripts/ruff.exe"
+        ]
+      },
+      "version": "0.12.5"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "scipy",
+      "record": {
+        "entries_root_sha256": "773061d898bc77f1f80c7457f2dc4f6600934324c317151da5d87d8680ae25b3",
+        "entries_without_hash": 974,
+        "entry_count": 2506,
+        "path": "scipy-1.17.1.dist-info/RECORD",
+        "sha256": "043bd537f257737ca477503ec5e250542b3ea499884789429ba696b178deca14",
+        "unsafe_paths": []
+      },
+      "version": "1.17.1"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "seaborn",
+      "record": {
+        "entries_root_sha256": "3f3573eb44601bd6ec6c48db681f92a02f079ad0c3aec0a52f6e0948dafde718",
+        "entries_without_hash": 55,
+        "entry_count": 114,
+        "path": "seaborn-0.13.2.dist-info/RECORD",
+        "sha256": "df2fa7ae8360c56d2db59814663b816eaff8156f899ffc43a38b2626c01cdee6",
+        "unsafe_paths": []
+      },
+      "version": "0.13.2"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "MIT",
+      "name": "setuptools",
+      "record": {
+        "entries_root_sha256": "85fc71c78dc1e101b7689033ec91e00e41e8a617f8c4be3f1f2e7626ea26847a",
+        "entries_without_hash": 7,
+        "entry_count": 18,
+        "path": "autocommand-2.2.2.dist-info/RECORD",
+        "sha256": "822bba66b41526fa547186b80221f85da50d652bee5493dbfe5d14085112f0c3",
+        "unsafe_paths": []
+      },
+      "version": "80.9.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "shiboken6",
+      "record": {
+        "entries_root_sha256": "313706d31a3721b34cbc70a1ed41618a88b9b50d13e30ba0a30b066dbde3b5f1",
+        "entries_without_hash": 4,
+        "entry_count": 27,
+        "path": "shiboken6-6.9.2.dist-info/RECORD",
+        "sha256": "7e652c7982475035f0c0c0e5faf0e7650330060ca84ed2ba215142eebc16d946",
+        "unsafe_paths": []
+      },
+      "version": "6.9.2"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "simsimd",
+      "record": {
+        "entries_root_sha256": "6d5dc1a80b40b35f3b6dc686f3fe327a402302e50edd4a2b7facfd1b3dee00f5",
+        "entries_without_hash": 1,
+        "entry_count": 9,
+        "path": "simsimd-6.5.16.dist-info/RECORD",
+        "sha256": "9f40cc9840cfa1872eeeb07ca9cbb2ef48451e2e0671ec95e6d559b365914482",
+        "unsafe_paths": []
+      },
+      "version": "6.5.16"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "six",
+      "record": {
+        "entries_root_sha256": "b79f82c081873a30818d3b8d9e55b3fe90c0e97ad33d7c2e13afac58d10d751a",
+        "entries_without_hash": 2,
+        "entry_count": 8,
+        "path": "six-1.17.0.dist-info/RECORD",
+        "sha256": "6eca8f3767a4e15a8317acec57d36e1248342e307b4a20bebbbfa713befaa539",
+        "unsafe_paths": []
+      },
+      "version": "1.17.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "smmap",
+      "record": {
+        "entries_root_sha256": "865dc1aeb85a8877a82786db41ec20683477c9af5aeabf15fcccbd5d4916a3a2",
+        "entries_without_hash": 11,
+        "entry_count": 27,
+        "path": "smmap-5.0.3.dist-info/RECORD",
+        "sha256": "93a978d344096c9b82576d1204bccf31b88ce6f2d09b6601017a7c8cf160227f",
+        "unsafe_paths": []
+      },
+      "version": "5.0.3"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "stack-data",
+      "record": {
+        "entries_root_sha256": "49152bd8cb4c60777875346f60bec21f4b861b3ee8986ce3876e94dda7b75b8f",
+        "entries_without_hash": 7,
+        "entry_count": 19,
+        "path": "stack_data-0.6.3.dist-info/RECORD",
+        "sha256": "a731031326b26d3785ebe8e1eb05b9220d738d0d6f05763a77fe5be39b757a78",
+        "unsafe_paths": []
+      },
+      "version": "0.6.3"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "stringzilla",
+      "record": {
+        "entries_root_sha256": "68ea1a451e958ccd6c293401c9d0d9ae17428b978cb71f6a375a5dfbd8b22332",
+        "entries_without_hash": 24,
+        "entry_count": 53,
+        "path": "stringzilla-5.0.3.dist-info/RECORD",
+        "sha256": "515401f9008b980b9fb1bc9de38e2bccc9e66f55090c556798cdffd6c6a12e9c",
+        "unsafe_paths": []
+      },
+      "version": "5.0.3"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "sympy",
+      "record": {
+        "entries_root_sha256": "fb2c3b3c9a30a37d3b42b81e6b879882cfd25e560b038b48234e79feb940834e",
+        "entries_without_hash": 1534,
+        "entry_count": 3105,
+        "path": "sympy-1.14.0.dist-info/RECORD",
+        "sha256": "2f7b421e7f1045621a97cd8ac0cd1fae9d5543af1a3f07a22c3fe62de54c2449",
+        "unsafe_paths": [
+          "../../Scripts/isympy.exe",
+          "../../share/man/man1/isympy.1"
+        ]
+      },
+      "version": "1.14.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "tensorboard",
+      "record": {
+        "entries_root_sha256": "0b856fd551e065c6712f31f31ad24645b8bc9393859a24efa3e4736565db38cb",
+        "entries_without_hash": 262,
+        "entry_count": 535,
+        "path": "tensorboard-2.21.0.dist-info/RECORD",
+        "sha256": "64305bc47e98b15cbff77830d711762d2579d00c2add9021a0aaf905d1f8ab53",
+        "unsafe_paths": [
+          "../../Scripts/tensorboard.exe"
+        ]
+      },
+      "version": "2.21.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "tensorboard-data-server",
+      "record": {
+        "entries_root_sha256": "a299ad710a2e06b0ad6da2628c91555aabe6c035c2929bfeac38f0e8466fde99",
+        "entries_without_hash": 2,
+        "entry_count": 7,
+        "path": "tensorboard_data_server-0.7.2.dist-info/RECORD",
+        "sha256": "7ce22c88376a8bec221a29325c4f0e278b6b0e4f8b5fa0cc527f59b2040b0cb7",
+        "unsafe_paths": []
+      },
+      "version": "0.7.2"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "thop",
+      "record": {
+        "entries_root_sha256": "cdcdc1ec5fc1dde1b2eed9fbd4df14ee5c607c8d9e5a5138a6868d8008d35bfc",
+        "entries_without_hash": 13,
+        "entry_count": 32,
+        "path": "thop-0.1.1.post2209072238.dist-info/RECORD",
+        "sha256": "fe46079dfba1d2843c9187260d0d18fb1396007b29a396a64aedae2a250bf666",
+        "unsafe_paths": []
+      },
+      "version": "0.1.1-2209072238"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "torch",
+      "record": {
+        "entries_root_sha256": "d9a3a2643fee380045fe5f840e62a0e2cd6885a45b524e2531bd2871387fd5fd",
+        "entries_without_hash": 2228,
+        "entry_count": 14049,
+        "path": "torch-2.11.0+cu128.dist-info/RECORD",
+        "sha256": "f4c2a9761d32a237382321db0f630d574cb82e3acd4684673b548b12b1383826",
+        "unsafe_paths": [
+          "../../Scripts/torchfrtrace.exe",
+          "../../Scripts/torchrun.exe"
+        ]
+      },
+      "version": "2.11.0+cu128"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "torchvision",
+      "record": {
+        "entries_root_sha256": "26957f2b02fa955d4ab24b6e7ed8478df2d18af6c2b28698dc5e46e54392f954",
+        "entries_without_hash": 381,
+        "entry_count": 580,
+        "path": "torchvision-0.26.0+cu128.dist-info/RECORD",
+        "sha256": "85acf9d37c58af461078871641437a99e9f0534ee66b3fb73ae334f7d187c945",
+        "unsafe_paths": []
+      },
+      "version": "0.26.0+cu128"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "tqdm",
+      "record": {
+        "entries_root_sha256": "2628ea71e1b48a6b061dc8d70cf8af49691a9928183c3264595cdded36aada31",
+        "entries_without_hash": 32,
+        "entry_count": 75,
+        "path": "tqdm-4.69.1.dist-info/RECORD",
+        "sha256": "dc40b5df5158bd70202c47d25a9cd19b9d16cb7ae84963a238483f8529b506f6",
+        "unsafe_paths": [
+          "../../Scripts/tqdm.exe"
+        ]
+      },
+      "version": "4.69.1"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "traitlets",
+      "record": {
+        "entries_root_sha256": "898615d9062d71ec37e0994283687b3db4dc98709f30f01dc969ed148805e551",
+        "entries_without_hash": 25,
+        "entry_count": 54,
+        "path": "traitlets-5.15.1.dist-info/RECORD",
+        "sha256": "1a3c0300f639378aa87844a111f41476c279e4f30bc67d69e2dbcd2744542a9e",
+        "unsafe_paths": []
+      },
+      "version": "5.15.1"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "MIT",
+      "name": "typing-inspection",
+      "record": {
+        "entries_root_sha256": "869aaf91bbbfe170df1fadee997820ba98bbdf45e6a870d3dea0ef377648a671",
+        "entries_without_hash": 4,
+        "entry_count": 13,
+        "path": "typing_inspection-0.4.2.dist-info/RECORD",
+        "sha256": "614f0cd1ed0c5e6c48d397579f0fb689538c7e66da93542a8da1661c55f33481",
+        "unsafe_paths": []
+      },
+      "version": "0.4.2"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "PSF-2.0",
+      "name": "typing_extensions",
+      "record": {
+        "entries_root_sha256": "ce58a54a6b77649531b00acc6c0c99556fafe198f3b8ae3ff09f7400a00edcd5",
+        "entries_without_hash": 2,
+        "entry_count": 7,
+        "path": "typing_extensions-4.16.0.dist-info/RECORD",
+        "sha256": "61d86db5843e537a7a8d095771289016a5bbfe26fdeace2b655dd0c7503f042a",
+        "unsafe_paths": []
+      },
+      "version": "4.16.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "tzdata",
+      "record": {
+        "entries_root_sha256": "d293406104c6cd29984883a12c1f96769ceab0651a106f088b25f85b79b5aae1",
+        "entries_without_hash": 23,
+        "entry_count": 656,
+        "path": "tzdata-2026.3.dist-info/RECORD",
+        "sha256": "bf7145abc571ef499d924629727b54f13bce83b49254b9613f2d1037bfbafd08",
+        "unsafe_paths": []
+      },
+      "version": "2026.3"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "ultralytics",
+      "record": {
+        "entries_root_sha256": "dae31a660ffbee5b96869fe8508835d62527a397f305e7183b6b6d08af7e07f5",
+        "entries_without_hash": 235,
+        "entry_count": 599,
+        "path": "ultralytics-8.4.82.dist-info/RECORD",
+        "sha256": "999652b882cee21fffadb67c6c4a7ad409a89bea55d2cab6e470fcf5c5897af4",
+        "unsafe_paths": [
+          "../../Scripts/ultralytics.exe",
+          "../../Scripts/yolo.exe"
+        ]
+      },
+      "version": "8.4.82"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "ultralytics-thop",
+      "record": {
+        "entries_root_sha256": "363646e3a661e60f7fc16455a6f8deb4c2a68e8514230a1a70a1840b2292a8e0",
+        "entries_without_hash": 9,
+        "entry_count": 22,
+        "path": "ultralytics_thop-2.0.20.dist-info/RECORD",
+        "sha256": "3c3bd51ba9cd1d91a121b142572869409672b7785867268af14d79412d2e241a",
+        "unsafe_paths": []
+      },
+      "version": "2.0.20"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "MIT",
+      "name": "urllib3",
+      "record": {
+        "entries_root_sha256": "835e315842ee15b059f658be3b95dddaac54d098ad77b247fd82c6cb1434294e",
+        "entries_without_hash": 37,
+        "entry_count": 79,
+        "path": "urllib3-2.7.0.dist-info/RECORD",
+        "sha256": "d92c5987f028a48aeca052e467c437707187f4289d98c9b891805e945aa6216e",
+        "unsafe_paths": []
+      },
+      "version": "2.7.0"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "MIT",
+      "name": "wcwidth",
+      "record": {
+        "entries_root_sha256": "07f565d42e5d6124e5f3d53751098b52ab73389fce0eacca1179f806ab580040",
+        "entries_without_hash": 48,
+        "entry_count": 100,
+        "path": "wcwidth-0.8.2.dist-info/RECORD",
+        "sha256": "f6cf88aedf84155544dcc1d4cdd9c02bb6c91771430ee3b8ebc43bcdb4bda20e",
+        "unsafe_paths": []
+      },
+      "version": "0.8.2"
+    },
+    {
+      "direct_url": null,
+      "license_expression": "BSD-3-Clause",
+      "name": "Werkzeug",
+      "record": {
+        "entries_root_sha256": "6c1e1574c0974815f7262d5d2d7484081fbe8dbdea40eea3cf229ed5a13418ed",
+        "entries_without_hash": 53,
+        "entry_count": 116,
+        "path": "werkzeug-3.1.8.dist-info/RECORD",
+        "sha256": "100e61e8c19978022da7424551be068c0268bcaec9efd94016605891af3adc53",
+        "unsafe_paths": []
+      },
+      "version": "3.1.8"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "wheel",
+      "record": {
+        "entries_root_sha256": "14725ced61a99d335525fb59f24257c4ef04f232d4d3ec6650ccf1e6476797d2",
+        "entries_without_hash": 1,
+        "entry_count": 38,
+        "path": "wheel-0.45.1.dist-info/RECORD",
+        "sha256": "5fe4585249829c50d2e9c0f276088c5615e9da7d4c97ff5d3573d073964a5e1d",
+        "unsafe_paths": [
+          "../../../bin/wheel"
+        ]
+      },
+      "version": "0.45.1"
+    },
+    {
+      "direct_url": null,
+      "license_expression": null,
+      "name": "zstandard",
+      "record": {
+        "entries_root_sha256": "732bd1595e3a487ab40a5d2508fe78749e97f4e2cac3656a4b37769db9dcf5f1",
+        "entries_without_hash": 3,
+        "entry_count": 14,
+        "path": "zstandard-0.23.0.dist-info/RECORD",
+        "sha256": "1d1a5362f1f296ecd9b867c1d87cd93095f78c081e918f58d58db64a8463eb2f",
+        "unsafe_paths": []
+      },
+      "version": "0.23.0"
+    }
+  ],
+  "implementation": "CPython",
+  "platform": "Windows-10-10.0.26100-SP0",
+  "purpose": "Installed-environment audit. RECORD entries contain the hashes supplied by each installed wheel; artifact hashes are exported separately when the release wheelhouse is materialized.",
+  "python": "3.11.15",
+  "schema_version": 1
+}

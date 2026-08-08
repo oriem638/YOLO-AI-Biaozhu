@@ -1,0 +1,82 @@
+[build-system]
+requires = ["setuptools>=80.9.0", "wheel>=0.45.1"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-biaozhu"
+version = "0.2.3"
+description = "Windows local-first YOLO object-detection dataset annotation studio"
+readme = "README.md"
+requires-python = ">=3.11,<3.13"
+license = "AGPL-3.0-only"
+authors = [{ name = "AI Biaozhu contributors" }]
+dependencies = [
+  "PySide6==6.9.2",
+  "Pillow==11.3.0",
+  "PyYAML==6.0.2",
+  "platformdirs==4.3.8",
+  "psutil==7.0.0",
+]
+
+[project.optional-dependencies]
+ml = [
+  "albumentations==2.0.8",
+  "GitPython==3.1.55",
+  "numpy==1.26.4",
+  "onnx==1.22.0",
+  "onnxruntime-gpu==1.22.0",
+  "onnxsim==0.4.36",
+  "onnxslim==0.1.82",
+  "pynvml==12.0.0",
+  "seaborn==0.13.2",
+  "tensorboard==2.21.0",
+  "ultralytics==8.4.82",
+]
+dev = [
+  "pytest==8.4.1",
+  "pytest-cov==6.2.1",
+  "pytest-qt==4.5.0",
+  "ruff==0.12.5",
+]
+build = [
+  "Nuitka==4.1.3",
+  "ordered-set==4.1.0",
+  "zstandard==0.23.0",
+]
+
+[project.scripts]
+ai-biaozhu = "ai_biaozhu.app:main"
+ai-biaozhu-worker = "ai_biaozhu.workers.main:main"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"ai_biaozhu.ml" = ["weights.lock.json"]
+"ai_biaozhu" = [
+  "assets/fonts/*.ttf",
+  "assets/fonts/*.txt",
+  "assets/fonts/*.md",
+  "assets/fonts/SHA256SUMS",
+]
+
+[tool.pytest.ini_options]
+addopts = "-ra"
+testpaths = ["tests"]
+qt_api = "pyside6"
+markers = [
+  "gpu: requires a CUDA-capable GPU and downloaded model weights",
+  "docker: requires Docker Desktop and converter images",
+  "device: requires physical Maix hardware",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM"]
+ignore = ["E501"]

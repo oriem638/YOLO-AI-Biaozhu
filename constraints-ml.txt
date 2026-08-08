@@ -1,0 +1,27 @@
+# Python 3.11 / NVIDIA CUDA 12.8 baseline tested for this project.
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch==2.11.0+cu128
+torchvision==0.26.0+cu128
+PySide6==6.9.2
+ultralytics==8.4.82
+GitPython==3.1.55
+numpy==1.26.4
+onnx==1.22.0
+onnxruntime-gpu==1.22.0
+onnxsim==0.4.36
+onnxslim==0.1.82
+albumentations==2.0.8
+Pillow==11.3.0
+PyYAML==6.0.2
+platformdirs==4.3.8
+psutil==7.0.0
+pynvml==12.0.0
+seaborn==0.13.2
+tensorboard==2.21.0
+pytest==8.4.1
+pytest-cov==6.2.1
+pytest-qt==4.5.0
+ruff==0.12.5
+Nuitka==4.1.3
+ordered-set==4.1.0
+zstandard==0.23.0

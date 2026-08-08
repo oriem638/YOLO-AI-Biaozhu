@@ -1,0 +1,14 @@
+include LICENSE
+include THIRD_PARTY_NOTICES.md
+include README.md
+include constraints-ml.txt
+include environment.yml
+include bundled_models/yolo26s.pt
+recursive-include docs *.md
+recursive-include locks *.json *.txt SHA256SUMS
+recursive-include packaging *.iss *.manifest
+recursive-include scripts *.ps1 *.py
+recursive-include tests *.py
+recursive-include third_party *.json
+recursive-include src/ai_biaozhu *.json
+recursive-include src/ai_biaozhu/assets/fonts *.ttf *.txt *.md SHA256SUMS

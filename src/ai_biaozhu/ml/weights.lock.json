@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "weights": {
+    "YOLOv5n": {
+      "filename": "yolov5n.pt",
+      "url": "https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5n.pt",
+      "sha256": "4f180cf23ba0717ada0badd6c685026d73d48f184d00fc159c2641284b2ac0a3"
+    },
+    "YOLOv5s": {
+      "filename": "yolov5s.pt",
+      "url": "https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5s.pt",
+      "sha256": "8b3b748c1e592ddd8868022e8732fde20025197328490623cc16c6f24d0782ee"
+    },
+    "YOLOv8n": {
+      "filename": "yolov8n.pt",
+      "url": "https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt",
+      "sha256": "f59b3d833e2ff32e194b5bb8e08d211dc7c5bdf144b90d2c8412c47ccfc83b36"
+    },
+    "YOLOv8s": {
+      "filename": "yolov8s.pt",
+      "url": "https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8s.pt",
+      "sha256": "1f47a78bf100391c2a140b7ac73a1caae18c32779be7d310658112f7ac9aa78a"
+    },
+    "YOLO11n": {
+      "filename": "yolo11n.pt",
+      "url": "https://github.com/ultralytics/assets/releases/download/v8.4.0/yolo11n.pt",
+      "sha256": "0ebbc80d4a7680d14987a577cd21342b65ecfd94632bd9a8da63ae6417644ee1"
+    },
+    "YOLO11s": {
+      "filename": "yolo11s.pt",
+      "url": "https://github.com/ultralytics/assets/releases/download/v8.4.0/yolo11s.pt",
+      "sha256": "85a76fe86dd8afe384648546b56a7a78580c7cb7b404fc595f97969322d502d5"
+    },
+    "YOLO26n": {
+      "filename": "yolo26n.pt",
+      "url": "https://github.com/ultralytics/assets/releases/download/v8.4.0/yolo26n.pt",
+      "sha256": "9b09cc8bf347f0fc8a5f7657480587f25db09b34bf33b0652110fb03a8ad4fef"
+    },
+    "YOLO26s": {
+      "filename": "yolo26s.pt",
+      "url": "https://github.com/ultralytics/assets/releases/download/v8.4.0/yolo26s.pt",
+      "sha256": "646f8bc3fe0a656803d95c294f7852321748cb29d13466a1af8862e2db384a1b",
+      "size": 20422725
+    }
+  }
+}
